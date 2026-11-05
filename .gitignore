@@ -1,0 +1,9 @@
+.build/
+.swiftpm/
+Distribution/
+.DS_Store
+.env
+.env.*
+*.log
+*.dSYM/
+xcuserdata/
